@@ -1,0 +1,14 @@
+/root/haotian/CUDA-beginners/cmake/cmake-3.24.0-rc4-tutorial-source/Step4_build/CMakeFiles/install/strip.dir
+/root/haotian/CUDA-beginners/cmake/cmake-3.24.0-rc4-tutorial-source/Step4_build/CMakeFiles/install/local.dir
+/root/haotian/CUDA-beginners/cmake/cmake-3.24.0-rc4-tutorial-source/Step4_build/CMakeFiles/install.dir
+/root/haotian/CUDA-beginners/cmake/cmake-3.24.0-rc4-tutorial-source/Step4_build/CMakeFiles/list_install_components.dir
+/root/haotian/CUDA-beginners/cmake/cmake-3.24.0-rc4-tutorial-source/Step4_build/CMakeFiles/rebuild_cache.dir
+/root/haotian/CUDA-beginners/cmake/cmake-3.24.0-rc4-tutorial-source/Step4_build/CMakeFiles/edit_cache.dir
+/root/haotian/CUDA-beginners/cmake/cmake-3.24.0-rc4-tutorial-source/Step4_build/CMakeFiles/Tutorial.dir
+/root/haotian/CUDA-beginners/cmake/cmake-3.24.0-rc4-tutorial-source/Step4_build/MathFunctions/CMakeFiles/install/strip.dir
+/root/haotian/CUDA-beginners/cmake/cmake-3.24.0-rc4-tutorial-source/Step4_build/MathFunctions/CMakeFiles/install.dir
+/root/haotian/CUDA-beginners/cmake/cmake-3.24.0-rc4-tutorial-source/Step4_build/MathFunctions/CMakeFiles/list_install_components.dir
+/root/haotian/CUDA-beginners/cmake/cmake-3.24.0-rc4-tutorial-source/Step4_build/MathFunctions/CMakeFiles/rebuild_cache.dir
+/root/haotian/CUDA-beginners/cmake/cmake-3.24.0-rc4-tutorial-source/Step4_build/MathFunctions/CMakeFiles/edit_cache.dir
+/root/haotian/CUDA-beginners/cmake/cmake-3.24.0-rc4-tutorial-source/Step4_build/MathFunctions/CMakeFiles/install/local.dir
+/root/haotian/CUDA-beginners/cmake/cmake-3.24.0-rc4-tutorial-source/Step4_build/MathFunctions/CMakeFiles/MathFunctions.dir

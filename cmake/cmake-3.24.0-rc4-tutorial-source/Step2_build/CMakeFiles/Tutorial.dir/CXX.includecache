@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/root/haotian/CUDA-beginners/cmake/cmake-3.24.0-rc4-tutorial-source/Step2/tutorial.cxx
+cmath
+-
+iostream
+-
+string
+-
+MathFunctions.h
+/root/haotian/CUDA-beginners/cmake/cmake-3.24.0-rc4-tutorial-source/Step2/MathFunctions.h
+TutorialConfig.h
+/root/haotian/CUDA-beginners/cmake/cmake-3.24.0-rc4-tutorial-source/Step2/TutorialConfig.h
+
+TutorialConfig.h
+

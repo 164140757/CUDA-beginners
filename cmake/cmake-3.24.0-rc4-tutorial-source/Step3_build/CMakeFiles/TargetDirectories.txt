@@ -1,0 +1,6 @@
+/root/haotian/CUDA-beginners/cmake/cmake-3.24.0-rc4-tutorial-source/Step3_build/CMakeFiles/rebuild_cache.dir
+/root/haotian/CUDA-beginners/cmake/cmake-3.24.0-rc4-tutorial-source/Step3_build/CMakeFiles/edit_cache.dir
+/root/haotian/CUDA-beginners/cmake/cmake-3.24.0-rc4-tutorial-source/Step3_build/CMakeFiles/Tutorial.dir
+/root/haotian/CUDA-beginners/cmake/cmake-3.24.0-rc4-tutorial-source/Step3_build/MathFunctions/CMakeFiles/rebuild_cache.dir
+/root/haotian/CUDA-beginners/cmake/cmake-3.24.0-rc4-tutorial-source/Step3_build/MathFunctions/CMakeFiles/edit_cache.dir
+/root/haotian/CUDA-beginners/cmake/cmake-3.24.0-rc4-tutorial-source/Step3_build/MathFunctions/CMakeFiles/MathFunctions.dir
